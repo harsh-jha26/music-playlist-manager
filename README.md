@@ -1,15 +1,6 @@
 Music Playlist Manager
 
 
-
-Problem Statement
-
-
-
-Build a music playlist manager using linked lists to manage song order, insertions, deletions, and shuffle functionalities.
-
-
-
 Technology Used
 
 * Language: C
@@ -152,4 +143,5 @@ Conclusion
 
 
 This project demonstrates how linked lists can be effectively used to manage dynamic data such as a music playlist, allowing flexible insertion, deletion, traversal, and shuffling of elements.
+
 
